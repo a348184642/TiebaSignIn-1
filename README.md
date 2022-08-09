@@ -35,7 +35,7 @@ BDUSS | xxxxxxxxxxx
 
 将上一步骤获取到的`BDUSS`粘贴到`Secrets`中
 
-![](./assets/添加BDUSS.gif)
+![](./assets/添加BDUSS.gif)11
 
 ## 4.开启actions
 
